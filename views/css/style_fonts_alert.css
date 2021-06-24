@@ -1,0 +1,54 @@
+
+/* custom style for login page */
+
+    .bg-success {
+    background-color: #e7f7ff!important;
+    }
+    .bg-success {
+    max-width: 1200px;
+    background-color: #e7f7ff!important;
+    border: 2px solid #9fc3ad;
+    text-align: center;
+    overflow: hidden;
+    padding: 8px;
+    border-radius: 5px;
+    color: #02403a;
+    }
+    .bg-success-default {
+    max-width: 1800px;
+    background-color: #e7f7ff!important;
+    border: 2px solid #9fc3ad;
+    text-align: center;
+    overflow: hidden;
+    padding: 8px;
+    border-radius: 5px;
+    color: #02403a;
+    }
+   .bg-success-default-alert-message {
+    max-width: 1800px;
+    background-color: #ffffff!important;
+    border: 2px solid #cacaca52;
+    text-align: center;
+    overflow: hidden;
+    padding: 10px;
+    border-radius: 5px;
+    color: #404040;
+    }
+    .bg-danger {
+    background-color: #ffffff!important;
+    }
+    .bg-danger {
+    max-width: 1200px;
+    background-color: #ffe0eb;
+    border: 2px solid #e91e6359;
+    text-align: center;
+    overflow: hidden;
+    padding: 8px;
+    border-radius: 5px;
+    color: #da0e53;
+    }
+    b{
+    color: #607D8B;
+    font-weight: bolder;
+    }
+    h4 {color: #525252;} 

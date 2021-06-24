@@ -1,0 +1,26 @@
+
+hr {
+  margin-top: 1rem;
+  margin-bottom: 1rem;
+  border: 0;
+  background-color: #fff;
+  animation-name: line;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+  animation-direction: alternate;
+  animation-timing-function: ease-in-out;
+  border-top: 2px solid rgba(193, 210, 204, 0.73);
+}
+.style-alert-terms {
+    background-color: #f7f7f76b;
+    max-width: 350px;
+    margin: auto;
+    text-align: center;
+    overflow: hidden;
+    padding: 10px 10px;
+}
+.btn-light {
+    color: #232323;
+    background-color: #ffffffc9;
+    border: 2px solid #cdd6d1;
+}

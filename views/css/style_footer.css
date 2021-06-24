@@ -1,0 +1,39 @@
+
+
+footer {
+  font-size: 13px;
+  padding: 20px;
+  color: #ffffff73; /*#ccc*/
+  text-align: center;
+  position: fixed;
+  left: 0;
+  width: 100%;
+  bottom: 0px;
+  padding: 0px;
+  max-width: 100%;
+  background-color: #000000db;
+}
+
+ #style-Copyright {
+  padding: 9px 9px 9px 9px;
+  color: #fff;
+  background-color: #000000bd;
+  max-width: 400px;
+  margin: auto;
+  text-align: center;
+  overflow: hidden;
+  padding: 18px;
+ }
+
+  #style-Copyright-rescue {
+  padding: 9px 9px 9px 9px;
+  color: #fff;
+  background-color:#000000ba;
+  max-width: 904px;
+  margin: auto;
+  text-align: center;
+  overflow: hidden;
+  padding: 17px;
+ }
+
+
